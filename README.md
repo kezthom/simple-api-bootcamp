@@ -1,22 +1,11 @@
-# 📊 Project: Simple API 1
+# 📊 Project: Food Recommendations
 
-### Goal: Display data returned from an api
+### Goal: Input an ingredient and receive dish recommendations.
 
-### How to submit your code for review:
+<img width="893" alt="Screenshot 2023-11-06 at 3 13 56 PM" src="https://github.com/kezthom/simple-api-bootcamp/assets/137250400/41a1fe6f-af17-42f6-beb2-91fcda99b0d7">
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+<img width="1109" alt="Screenshot 2023-11-06 at 3 14 29 PM" src="https://github.com/kezthom/simple-api-bootcamp/assets/137250400/9c3c8076-6912-451e-9dec-e3f3733a77db">
+
+### Tech Used: HTML, CSS, JS
+
