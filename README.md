@@ -2,6 +2,8 @@
 
 ### Goal: Input an ingredient and receive dish recommendations.
 
+https://htmlpreview.github.io/?https://github.com/kezthom/simple-api-bootcamp/blob/answer/index.html 
+
 <img width="893" alt="Screenshot 2023-11-06 at 3 13 56 PM" src="https://github.com/kezthom/simple-api-bootcamp/assets/137250400/41a1fe6f-af17-42f6-beb2-91fcda99b0d7">
 
 
